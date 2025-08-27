@@ -4,7 +4,7 @@ Aplicativo em **React Native com Expo** para visualização de eventos e gerenci
 
 ---
 
-## ⚙> Configuração do Ambiente
+## > Configuração do Ambiente
 
 1. **Instale o Node.js (versão LTS recomendada)**  
    [Baixar aqui](https://nodejs.org/).
