@@ -1,10 +1,10 @@
-# 📱 App de Eventos
+# > App de Eventos
 
 Aplicativo em **React Native com Expo** para visualização de eventos e gerenciamento de participantes com check-in.
 
 ---
 
-## ⚙️ Configuração do Ambiente
+## ⚙> Configuração do Ambiente
 
 1. **Instale o Node.js (versão LTS recomendada)**  
    [Baixar aqui](https://nodejs.org/).
@@ -24,7 +24,7 @@ Aplicativo em **React Native com Expo** para visualização de eventos e gerenci
 
    ---
 
-## ⚙️ Rodando o projeto
+## > Rodando o projeto
 
 1. **No terminal (command prompt de preferência)**:
    ```bash
